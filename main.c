@@ -26,15 +26,16 @@ double eval_poly(double coeff[], int degree, double x) {
 }
 
 int main() {
-    double *coeff;
-    int degreep;
-    double x;
-    get_poly(&coeff, &degreep);
-    printf("degree is %d ",degreep);
-    printf("enter x:");
-    scanf("%lf", &x);
-    printf("the value is %lf", eval_poly(coeff, degreep, x));
+//    double *coeff;
+//    int degreep;
+//    double x;
+//    get_poly(&coeff, &degreep);
+//    printf("degree is %d ",degreep);
+//    printf("enter x:");
+//    scanf("%lf", &x);
+//    printf("the value is %lf", eval_poly(coeff, degreep, x));
+//
 
-
+    printf("Hello world");
     return 0;
 }
