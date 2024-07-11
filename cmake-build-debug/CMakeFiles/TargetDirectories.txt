@@ -1,0 +1,3 @@
+/Users/adam/Desktop/Coding_files/worksheet1/cmake-build-debug/CMakeFiles/worksheet1.dir
+/Users/adam/Desktop/Coding_files/worksheet1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/Desktop/Coding_files/worksheet1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
